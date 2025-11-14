@@ -5,13 +5,12 @@ body {
   color: #333; 
 } 
 
-header { 
-
-  background-color: #005f99; 
-  color: white; 
-  text-align: center; 
-  padding: 20px; 
-} 
+header {
+  background-color: #00b894;  
+  color: #ffffff;             
+  text-align: center;
+  padding: 20px;
+}
 
 section {
   background-color: #f0f8ff; 
