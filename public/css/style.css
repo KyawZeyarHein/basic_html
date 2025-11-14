@@ -13,12 +13,12 @@ header {
   font-weight: bold;
 }
 
-.container {
+.content {
   width: 80%;
   margin: 20px auto;
 }
 
-.card {
+.biography, .achievements {
   background-color: white;
   padding: 20px;
   margin-bottom: 20px;
@@ -26,22 +26,21 @@ header {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
-.card h2 {
+.biography h2, .achievements h2 {
   margin-top: 0;
   font-size: 22px;
   border-bottom: 2px solid #e0e0e0;
   padding-bottom: 8px;
 }
 
-.profile-img {
+img {
   width: 160px;
   height: 160px;
   border-radius: 5px;
   object-fit: cover;
   margin-bottom: 15px;
 }
-
-.card ul {
+ ul {
   padding-left: 20px;
 }
 
